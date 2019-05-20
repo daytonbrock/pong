@@ -1,6 +1,59 @@
-body {
-   background-color: #343a40;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* body {
+   background-color: black;
    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.playField {
+   background-color: #4d5257;
+   margin-left: auto;
+   margin-right: auto;
+   align-content: center;
+   height: 600px;
+   width: 800px;
 }
 
 .title {
@@ -8,6 +61,37 @@ body {
     display: flex;
     justify-content: center;
 }
+
+.leftPaddle {
+    background-color: whitesmoke;
+    height: 100px;
+    width: 10px;
+    margin-left: 20px;
+    margin-top: 250px;
+    position: absolute;
+}
+
+.rightPaddle {
+    background-color: whitesmoke;
+    height: 100px;
+    width: 10px;
+    margin-left: 770px;
+    margin-top: 250px;
+    position: absolute;
+}
+
+.pongBall {
+    background-color: whitesmoke;
+    height: 20px;
+    width: 20px;
+    margin-left: 390px;
+    margin-top: 290px;
+    position: absolute;
+}
+
+
+ */
+
 
 /* some sort of scoreboard */
 /* .scoreOne {
